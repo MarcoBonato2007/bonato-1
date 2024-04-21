@@ -42,6 +42,7 @@ I would recommend downloading main.circ from this repo and checking it out yours
         - gte (greater than or equal to)
         - ov (overflow from addition operation)
         - al (always branch)
+        - ne (not equal to)
      - If the condition is met according to the last compare operation, the PC address is set to the instruction address of the specified label
      - Example (assuming an earlier label was created called loop): branch lt loop
   - <alu_operation> Rn Ra Rb

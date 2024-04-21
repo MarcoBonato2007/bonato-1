@@ -1,6 +1,6 @@
 # Your source code should be in a plain text file called 'code.txt' in the same directory as the compiler file.
 # The output file is called hex_code, and contains the hex version of the instructions to be imported into logisim.
-
+# Important: for the reset button to work properly, the first line of code should be a label or a none instruction.
 
 
 OPCODES = {

@@ -34,7 +34,8 @@ BRANCH_CONDITION_CODES = {
     "eq": "010",
     "lt": "011",
     "lte": "100",
-    "al": "110"
+    "al": "110",
+    "ne": "111",
 }
 
 class CompileError(Exception):

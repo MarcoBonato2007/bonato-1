@@ -10,7 +10,7 @@ I would recommend downloading main.circ from this repo and checking it out yours
       - The current instruction register (abbreviated CIR): stores the current instruction being executed. Is contained within the program loader circuit.
   - Instructions and data are stored separately. More specifically, programs are stored in ROM, in the program loader circuit.
 
-## [The instruction set](https://docs.google.com/spreadsheets/d/1MOb1YVkWXCrEX2oYxiGSCioapgrsqMv9-_7IW9adN6s/edit?usp=sharing)
+## [The instruction set](https://docs.google.com/spreadsheets/d/1rdvwHUKWqHgjQlK3HHdjQLvZhzmj-hhO/edit?usp=sharing&ouid=109247224527226725112&rtpof=true&sd=true)
   This computer has a 24-bit instruction design, with 16-bit data. It has a 5-bit opcode, 3-bit register addressing, and 16-bit memory and instruction addressing.
   Below in bullet points are the instructions the computer can perform:
   - none
